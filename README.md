@@ -14,10 +14,12 @@ The functions we created are included in a script. The necessary parts for pre-p
 /It consists of 768 observations and 12 variables.
 
 ** The target variable is specified as "Survived";
+
 ** 1: one's survival,
 ** 0: indicates the person's inability to survive.
 
 *Variables*
+
 * Survived
 * 0 Died, 1 Survived
 
