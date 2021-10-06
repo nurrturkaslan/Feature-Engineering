@@ -10,13 +10,14 @@ The functions we created are included in a script. The necessary parts for pre-p
 /When the dataset is passed through this script, the modeling starts. Expected to be ready.
 
 *Dataset Story*
-/The data set is the data set of the people who were in the Titanic shipwreck.
-/It consists of 768 observations and 12 variables.
 
-** The target variable is specified as "Survived";
+*The data set is the data set of the people who were in the Titanic shipwreck.
+*It consists of 768 observations and 12 variables.
 
-** 1: one's survival,
-** 0: indicates the person's inability to survive.
+*The target variable is specified as "Survived";*
+
+*1: one's survival,*
+*0: indicates the person's inability to survive.*
 
 *Variables*
 
