@@ -40,6 +40,8 @@ The functions we created are included in a script. The necessary parts for pre-p
 * Cabin: Cabin number
 
 *Project Tasks*
+
+
 1- Open a directory called helpers in the working directory and enter it.
 Add a script named data_prep.py.
 In the Feature Engineering section, all of our own
